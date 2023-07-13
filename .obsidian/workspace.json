@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eb54b9500c02c09f",
+        "id": "fdc18946a36c3d80",
         "type": "tabs",
         "children": [
           {
-            "id": "680c4da58e22fd33",
+            "id": "f72e116041398bb7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230713092621.png"
+                "file": "Modules/Mod 5.md",
+                "mode": "source",
+                "source": false
               }
             }
-          },
-          {
-            "id": "f3b5d0a3a9edeade",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a09c00f9f0cbd105",
@@ -100,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Modules/Mod 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Modules/Mod 5.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Modules/Mod 5.md"
+              }
             }
           }
         ]
@@ -155,12 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3b5d0a3a9edeade",
+  "active": "f72e116041398bb7",
   "lastOpenFiles": [
+    "Modules/Mod 5.md",
+    "Topics/DBMS Design Guidelines.md",
+    "Modules/Mod 4.md",
+    "Topics/Normalization.md",
+    "Images/Guildelins.pdf",
+    "Images/Pasted image 20230713092621.png",
     "Images/Pasted image 20230713102428.png",
     "Images/Pasted image 20230713173332.png",
     "Images/Pasted image 20230713213840.png",
-    "Images/Pasted image 20230713092621.png",
     "Images/Pasted image 20230713074303.png",
     "Images/Pasted image 20230713015343.png",
     "Images/Pasted image 20230712195746.png",
@@ -170,13 +173,10 @@
     "Modules/Mod 1.md",
     "Topics/Physical Data Organization.md",
     "Images/Pasted image 20230713214726.png",
-    "Images/Pasted image 20230713214330.png",
     "Modules/Mod 3.md",
     "Topics/SQL.md",
     "Modules/Mod 2.md",
-    "Modules/Mod 4.md",
     "README.md",
-    "Modules/Mod 5.md",
     "Topics/ER Diagrams.md",
     "Topics/Actors In DB.md",
     "Topics/Relational Algebra.md",
@@ -195,8 +195,6 @@
     "OS/Basic Linux Commands.md",
     "OS/OS Services.md",
     "OS/OS.md",
-    "Lab rush.md",
-    "GRAPHS/GRAPH THEORY.md",
-    "Data Structures/Data Structures.md"
+    "Lab rush.md"
   ]
 }
