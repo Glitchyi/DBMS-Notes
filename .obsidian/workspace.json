@@ -11,15 +11,22 @@
             "id": "680c4da58e22fd33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Topics/Physical Data Organization.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230713092621.png"
               }
             }
+          },
+          {
+            "id": "f3b5d0a3a9edeade",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a09c00f9f0cbd105",
@@ -94,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Physical Data Organization.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Physical Data Organization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,13 +137,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Topics/Physical Data Organization.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680c4da58e22fd33",
+  "active": "f3b5d0a3a9edeade",
   "lastOpenFiles": [
+    "Images/Pasted image 20230713102428.png",
+    "Images/Pasted image 20230713173332.png",
+    "Images/Pasted image 20230713213840.png",
+    "Images/Pasted image 20230713092621.png",
+    "Images/Pasted image 20230713074303.png",
+    "Images/Pasted image 20230713015343.png",
+    "Images/Pasted image 20230712195746.png",
+    "Images/Pasted image 20230712191637.png",
+    "Images/Pasted image 20230320222236.png",
+    "DBMS.md",
+    "Modules/Mod 1.md",
+    "Topics/Physical Data Organization.md",
     "Images/Pasted image 20230713214726.png",
     "Images/Pasted image 20230713214330.png",
-    "Images/Pasted image 20230713213840.png",
     "Modules/Mod 3.md",
     "Topics/SQL.md",
-    "Topics/Physical Data Organization.md",
     "Modules/Mod 2.md",
     "Modules/Mod 4.md",
-    "DBMS.md",
     "README.md",
     "Modules/Mod 5.md",
-    "Modules/Mod 1.md",
     "Topics/ER Diagrams.md",
     "Topics/Actors In DB.md",
     "Topics/Relational Algebra.md",
     "Topics/Acid Compliancy.md",
-    "Images/Pasted image 20230713173332.png",
-    "Images/Pasted image 20230713172723.png",
-    "Images/Pasted image 20230713152954.png",
-    "Images/Pasted image 20230713102428.png",
     "Modules/Mod 1.html",
-    "Images/Pasted image 20230713092621.png",
-    "Images/Pasted image 20230713074303.png",
-    "Images/Pasted image 20230713015343.png",
     "Pasted image 20230712194451.png.md",
-    "Images/Pasted image 20230712195746.png",
     "Untitled.canvas",
     "Modules",
     "Topics",
