@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "90f28cf05b0eb104",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb54b9500c02c09f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680c4da58e22fd33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Mod 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3c91726d0b1bf04",
+    "type": "split",
+    "children": [
+      {
+        "id": "2206a90dbd348dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e858822437176a0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "329be946fb80736f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#important",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "097e296b5298f44e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfa5840f75622f30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a09c00f9f0cbd105",
+    "type": "split",
+    "children": [
+      {
+        "id": "2141774d359fa7f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "144b634d7c588dd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modules/Mod 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9bad23e362eb1c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modules/Mod 2.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "927a427460a220d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bab23734cd3cc270",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modules/Mod 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e858822437176a0c",
+  "lastOpenFiles": [
+    "Images/Pasted image 20230713102428.png",
+    "Topics/ER Diagrams.md",
+    "Topics/SQL.md",
+    "Topics/Actors In DB.md",
+    "Topics/Acid Compliancy.md",
+    "Modules/Mod 2.md",
+    "Modules/Mod 1.md",
+    "DBMS.md",
+    "Modules/Mod 1.html",
+    "Images/Pasted image 20230713092621.png",
+    "Images/Pasted image 20230713074303.png",
+    "Topics/Physical Data Organization.md",
+    "Images/Pasted image 20230713015343.png",
+    "Pasted image 20230712194451.png.md",
+    "Images/Pasted image 20230712195746.png",
+    "Attachments/Pasted image 20230712195746 1.png",
+    "Images/Pasted image 20230320222236.png",
+    "Attachments/WhatsApp Image 2023-02-05 at 19.24.34.jpg",
+    "Attachments/Pasted image 20230712194451.png",
+    "Images/Pasted image 20230712191637.png",
+    "Attachments/Pasted image 20230707201137.png",
+    "Untitled.canvas",
+    "Modules",
+    "Topics",
+    "Blocks.md",
+    "Untitled.md",
+    "S4.md",
+    "COA/Mod 4.md",
+    "COA/COA.md",
+    "COA",
+    "OS/Basic Linux Commands.md",
+    "OS/OS Services.md",
+    "OS/OS.md",
+    "Lab rush.md",
+    "GRAPHS/GRAPH THEORY.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Sorting.md",
+    "Sustainable Engg/Points to remeber.md"
+  ]
+}
