@@ -62,9 +62,9 @@ INTEGER/INT, SMALLINT, FLOAT/REAL, etc.
 - Includes both date and time fields.
 ---
 ## SQL COMMANDS SYNTAX
+#syntax 
 
 ### CREATE
-
 ```SQL
 CREATE TABLE <TABLENAME> {
 	ATTRIBUTE DATATYPE,
@@ -73,14 +73,12 @@ CREATE TABLE <TABLENAME> {
 ```
 
 ### ALTER
-
 ```SQL
 ALTER TABLE <TABLENAME> ADD/DROP/MODIFY COLUMN (DATATYPE FOR ADD AND MODIFY)
 ```
 
 ### DROP
 Remove the entire relation
-
 ```SQL
 DROP TABLE <TABLENAME> RESTRICT /* ONLY IF NO ELEMENTS*/
 DROP TABLE <TABLENAME> CASCASE /*DROPS ALL OBJECTS DEPENEDED ON THE VALUE*/
@@ -88,7 +86,6 @@ DROP TABLE <TABLENAME> CASCASE /*DROPS ALL OBJECTS DEPENEDED ON THE VALUE*/
  
 ### INSERT
 New tuples
-
 ```SQL 
 INSERT INTO <TABLENAME> (ATTRIBUTE NAMES) VALUES (VALUES) 
 OR
@@ -97,14 +94,12 @@ INSERT INTO <TABLENAME> VALUES (VALUES)
 
 ### DELETE
 To delete tuples
-
 ```SQL 
 DELETE FROM <TABLENAME> WHERE CONDITION
 ```
 
 ### UPDATE
 update values of tuples
-
 ```SQL 
 UPDATE <TABLENAME> 
 SET <VALUES>
@@ -112,7 +107,6 @@ WHERE <CONDITION>
 ```
 
 ### SELECT 
-
 ```SQL 
 SELECT <ATTRIBUTE NAMES>
 FROM <TABLES>
@@ -121,7 +115,6 @@ WHERE <CONDITION>
 
 ### DISTINCT
 Removes redundant tuples
-
 ```SQL
 SELECT DISTINCT (<ATTRIBUTE NAMES>)
 FROM <TABLES>
@@ -130,7 +123,6 @@ WHERE <CONDITION>
 
 ### LIKE 
 Pattern matching situations as well as when looking for NOT NULL values
-
 ```SQL
 SELECT <ATTRIBUTE NAMES> 
 FROM <TABLES>
@@ -153,28 +145,29 @@ The GROUP BY clause specifies the grouping attributes, which should also appear 
 to apply condition to the groups that you just made we make use of the HAVING clause
 
 ## SQL Joins
-1. (INNER) JOIN:
+#syntax 
+### (INNER) JOIN:
 - Select records that have matching values in both tables.
 ```SQL 
 SELECT *
 FROM <TABLE A> JOIN <TABLE B> ON <JOIN CONDITION>
 WHERE <CONDITION>
 ```
-2. FULL (OUTER) JOIN:
+### FULL (OUTER) JOIN:
  - Selects all records that match either left o right table records.
  ```SQL 
 SELECT *
 FROM <TABLE A> FULL JOIN <TABLE B> ON <JOIN CONDITION>
 WHERE <CONDITION>
 ```
-3. LEFT (OUTER) JOIN:
+### LEFT (OUTER) JOIN:
  - Select records from the first (left-most) table with matching right table records.
 ```SQL 
 SELECT *
 FROM <TABLE A> LEFT JOIN <TABLE B> ON <JOIN CONDITION>
 WHERE <CONDITION>
 ```
-4. RIGHT (OUTER) JOIN:
+### RIGHT (OUTER) JOIN:
 - Select records from the second (right-most) table with matching left table records.
 ```SQL 
 SELECT *

@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Mod 3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a3c6fbb11e1cd40a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Important",
+                "query": "#comp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,14 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules/Mod 3.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules/Mod 3.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Mod 3.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,20 +155,20 @@
   },
   "active": "680c4da58e22fd33",
   "lastOpenFiles": [
-    "Images/Pasted image 20230713173332.png",
-    "Modules/Mod 2.md",
-    "Topics/SQL.md",
-    "Images/Pasted image 20230713172723.png",
-    "DBMS.md",
-    "README.md",
-    "Modules/Mod 3.md",
-    "Modules/Mod 1.md",
-    "Topics/Physical Data Organization.md",
-    "Topics/Acid Compliancy.md",
-    "Topics/Relational Algebra.md",
-    "Images/Pasted image 20230713152954.png",
     "Topics/ER Diagrams.md",
     "Topics/Actors In DB.md",
+    "Topics/SQL.md",
+    "Modules/Mod 3.md",
+    "Topics/Relational Algebra.md",
+    "Modules/Mod 2.md",
+    "Topics/Physical Data Organization.md",
+    "Modules/Mod 1.md",
+    "Topics/Acid Compliancy.md",
+    "DBMS.md",
+    "Images/Pasted image 20230713173332.png",
+    "Images/Pasted image 20230713172723.png",
+    "README.md",
+    "Images/Pasted image 20230713152954.png",
     "Images/Pasted image 20230713102428.png",
     "Modules/Mod 1.html",
     "Images/Pasted image 20230713092621.png",
@@ -185,7 +178,6 @@
     "Images/Pasted image 20230712195746.png",
     "Attachments/Pasted image 20230712195746 1.png",
     "Images/Pasted image 20230320222236.png",
-    "Attachments/WhatsApp Image 2023-02-05 at 19.24.34.jpg",
     "Untitled.canvas",
     "Modules",
     "Topics",
