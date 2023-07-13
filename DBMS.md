@@ -24,7 +24,7 @@ DBMS(CST204) Important Topics
 4. B trees, B+ trees ( definition, structure) insertion is asked in one question paper
 5. Hashing
 
-## [[Mod4|Module 4]]
+## [[Modules/Mod 4|Module 4]]
 1. Need for normalization
 2. Different anomalies ( important)
 3. Armstrong's axioms
@@ -34,9 +34,12 @@ DBMS(CST204) Important Topics
 7. Lossless decomposition definition and problem to find FD lossless or not
 8. Minimal/ canonical cover
 
-##  [[Mod 5 |Module 5]]
+##  [[Modules/Mod 5|Module 5]]
 1. Problems associated with concurrent transaction (imp)
 2. Acid properties of transaction
 3. Cascade less, recoverable schedules 
 4. Conflict serializable
 5. NoSQL topics
+
+Figures done in FIgma
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUhdtgQ6OA5d65bGlP0pf7N%2FObsidian-Notes%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DiOZLRXqEhZ0BPq6X-1" ></iframe>
