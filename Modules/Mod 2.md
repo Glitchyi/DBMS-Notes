@@ -1,5 +1,5 @@
 ## Relational Data Model
-[[Relational Algebra]]
+[[Topics/Relational Algebra]]
 
 ### Components of a relational database
 1) Domain
@@ -68,8 +68,9 @@ Three main types of constraints:
 ## Key Constraints
 - Primary Key - The main key that is being used for tuples
 - Candidate Key - Possible keys that can be used as Primary Keys
-- Secondary Key  - 
-- Alternate Key
-- Composite Key
-- Foreign Key
-- Super Key
+- Secondary Key/Alternate Key  - Provide additional indexing and searching capabilities.
+- Composite Key - Same as super
+- Foreign Key - Key from other relations
+- Super Key - Set of multiple attributes to generate unique identification for tuples
+
+

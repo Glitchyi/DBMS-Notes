@@ -87,8 +87,8 @@ Internal Schema == Low Level (Physical)
 Conceptual Schema == Representational
 External Schema == High Level
 ```
-1) Internal Schema deals with how the data is physically stored in the database [[Physical Data Organization]]
-2) Conceptual Schema deals with Entity and Relationships [[SQL]], [[Relational Algebra]]
+1) Internal Schema deals with how the data is physically stored in the database [[Topics/Physical Data Organization]]
+2) Conceptual Schema deals with Entity and Relationships [[SQL]], [[Topics/Relational Algebra]]
 3) External View deals with how the end user or people who interact with the data see [[ER Diagrams]]
 
 ### DATA INDEPENDENCE

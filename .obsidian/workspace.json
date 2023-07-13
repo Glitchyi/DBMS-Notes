@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS.md",
+                "file": "Modules/Mod 3.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a3c6fbb11e1cd40a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#important",
+                "query": "tag:#Important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS.md",
+                "file": "Modules/Mod 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS.md",
+                "file": "Modules/Mod 3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS.md"
+                "file": "Modules/Mod 3.md"
               }
             }
           }
@@ -154,27 +162,30 @@
   },
   "active": "680c4da58e22fd33",
   "lastOpenFiles": [
-    "README.md",
+    "Images/Pasted image 20230713173332.png",
     "Modules/Mod 2.md",
-    "Images/Pasted image 20230713102428.png",
-    "Topics/ER Diagrams.md",
     "Topics/SQL.md",
-    "Topics/Actors In DB.md",
-    "Topics/Acid Compliancy.md",
-    "Modules/Mod 1.md",
+    "Images/Pasted image 20230713172723.png",
     "DBMS.md",
+    "README.md",
+    "Modules/Mod 3.md",
+    "Modules/Mod 1.md",
+    "Topics/Physical Data Organization.md",
+    "Topics/Acid Compliancy.md",
+    "Topics/Relational Algebra.md",
+    "Images/Pasted image 20230713152954.png",
+    "Topics/ER Diagrams.md",
+    "Topics/Actors In DB.md",
+    "Images/Pasted image 20230713102428.png",
     "Modules/Mod 1.html",
     "Images/Pasted image 20230713092621.png",
     "Images/Pasted image 20230713074303.png",
-    "Topics/Physical Data Organization.md",
     "Images/Pasted image 20230713015343.png",
     "Pasted image 20230712194451.png.md",
     "Images/Pasted image 20230712195746.png",
     "Attachments/Pasted image 20230712195746 1.png",
     "Images/Pasted image 20230320222236.png",
     "Attachments/WhatsApp Image 2023-02-05 at 19.24.34.jpg",
-    "Attachments/Pasted image 20230712194451.png",
-    "Images/Pasted image 20230712191637.png",
     "Untitled.canvas",
     "Modules",
     "Topics",
