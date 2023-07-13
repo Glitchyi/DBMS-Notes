@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Mod 2.md",
+                "file": "DBMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules/Mod 2.md",
+                "file": "DBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules/Mod 2.md",
+                "file": "DBMS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Mod 2.md"
+                "file": "DBMS.md"
               }
             }
           }
@@ -152,14 +152,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e858822437176a0c",
+  "active": "680c4da58e22fd33",
   "lastOpenFiles": [
+    "README.md",
+    "Modules/Mod 2.md",
     "Images/Pasted image 20230713102428.png",
     "Topics/ER Diagrams.md",
     "Topics/SQL.md",
     "Topics/Actors In DB.md",
     "Topics/Acid Compliancy.md",
-    "Modules/Mod 2.md",
     "Modules/Mod 1.md",
     "DBMS.md",
     "Modules/Mod 1.html",
@@ -174,7 +175,6 @@
     "Attachments/WhatsApp Image 2023-02-05 at 19.24.34.jpg",
     "Attachments/Pasted image 20230712194451.png",
     "Images/Pasted image 20230712191637.png",
-    "Attachments/Pasted image 20230707201137.png",
     "Untitled.canvas",
     "Modules",
     "Topics",
