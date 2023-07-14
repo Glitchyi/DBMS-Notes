@@ -1,0 +1,1 @@
+ NoSQL database stands for “Not Only SQL” or “Not SQL.”

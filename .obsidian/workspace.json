@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Mod 5.md",
+                "file": "Topics/NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules/Mod 5.md",
+                "file": "Topics/NoSQL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules/Mod 5.md",
+                "file": "Topics/NoSQL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Mod 5.md"
+                "file": "Topics/NoSQL.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   "active": "f72e116041398bb7",
   "lastOpenFiles": [
     "Modules/Mod 5.md",
+    "Topics/NoSQL.md",
+    "Topics/Schedules.md",
+    "Topics/Transactions.md",
     "Topics/DBMS Design Guidelines.md",
     "Modules/Mod 4.md",
     "Topics/Normalization.md",
@@ -193,8 +196,6 @@
     "COA/COA.md",
     "COA",
     "OS/Basic Linux Commands.md",
-    "OS/OS Services.md",
-    "OS/OS.md",
-    "Lab rush.md"
+    "OS/OS Services.md"
   ]
 }
