@@ -11,12 +11,8 @@
             "id": "f72e116041398bb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/NoSQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a09c00f9f0cbd105",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/NoSQL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/NoSQL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Topics/NoSQL.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,13 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f72e116041398bb7",
+  "active": "e858822437176a0c",
   "lastOpenFiles": [
-    "Modules/Mod 5.md",
+    "Topics/DB Design Guidelines.md",
     "Topics/NoSQL.md",
+    "Modules/Mod 5.md",
     "Topics/Schedules.md",
     "Topics/Transactions.md",
-    "Topics/DBMS Design Guidelines.md",
     "Modules/Mod 4.md",
     "Topics/Normalization.md",
     "Images/Guildelins.pdf",

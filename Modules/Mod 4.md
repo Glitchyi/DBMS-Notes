@@ -11,7 +11,7 @@ Certain information cannot be deleted without loosing on other information. e.g.
 Updating information for similar information is not all updated consistently we end up with having different values for different parts of the database.
 
 ## Informal Design Guidelines for Relation Schema
-[[Topics/DBMS Design Guidelines|DBMS Design Guidelines]]
+[[Topics/DB Design Guidelines|DB Design Guidelines]]
 
 Four informal guidelines that may be used as measures to determine the quality of relation schema design:
 - Making sure that the semantics of the attribute is clear in the schema
